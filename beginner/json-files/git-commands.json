@@ -331,6 +331,10 @@
     "description": "This command to used to commit any changes to the local repository and the -m flag is used to provide a short description of the changes that are being committed."
   },
   {
+    "title": "git add ./",
+    "description": "This command is used to stage all the untracked and modified files in the subdirectories of the current directory to be ready to be committed."
+  },
+  {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
   }
